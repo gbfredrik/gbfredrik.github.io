@@ -1,2 +1,1 @@
-# gbfredrik.github.io
-A blog for all things quantitative
+# A blog for all things quantitative
